@@ -62,7 +62,7 @@ liquid:
 # theme
 plugins:
   - jekyll-remote-theme
-remote_theme: cotes2020 / jekyll-theme-chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy
 
 # Markdown Processors
 kramdown:
